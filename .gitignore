@@ -12,7 +12,7 @@
 
 # testing
 /coverage
-/test
+# /test
 
 # production
 /build
